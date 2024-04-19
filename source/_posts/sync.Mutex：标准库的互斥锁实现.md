@@ -2,12 +2,13 @@
 categories: 源码分析
 tags:
   - go
+  - 并发
 description: ''
 permalink: sync-mutex/
 title: sync.Mutex：标准库的互斥锁实现
-cover: /images/de91d8193c1b7d27e88f220af42a71b8.jpg
-date: '2024-04-18 19:51:00'
-updated: '2024-04-19 18:59:00'
+cover: /images/ddd64e35f160b0eaa92db513eda8af3e.jpg
+date: '2023-12-15 23:30:00'
+updated: '2024-04-19 21:50:00'
 ---
 
 # 是什么

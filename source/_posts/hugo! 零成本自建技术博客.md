@@ -3,12 +3,12 @@ categories: 实践记录
 tags:
   - blog
   - 工具
-description: ''
+description: 通过 github pages 提供博客站点 + hugo 提供博客模板 + github actions 自动构建和发布 的方式，零成本建立博客工作流
 permalink: build-blog-hugo/
 title: 'hugo: 零成本自建技术博客'
-cover: /images/98cc79c7e2f1e62617fcb83906e7075c.jpg
-date: '2024-04-18 19:51:00'
-updated: '2024-04-19 19:00:00'
+cover: /images/be4d3dfc33971e6fb8b467ec252b145f.png
+date: '2023-12-08 11:56:00'
+updated: '2024-04-19 21:50:00'
 ---
 
 ### 方案选择

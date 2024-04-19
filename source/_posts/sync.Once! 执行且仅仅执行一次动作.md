@@ -2,12 +2,13 @@
 categories: 源码分析
 tags:
   - go
+  - 并发
 description: ''
 permalink: sync-once/
 title: 'sync.Once: 执行且仅仅执行一次动作'
-cover: /images/676e58f53e170caf75c77817df0c367d.jpg
-date: '2024-04-18 19:51:00'
-updated: '2024-04-19 19:00:00'
+cover: /images/807c675ae9166190a186b1b782bc63ec.jpg
+date: '2023-12-12 18:35:00'
+updated: '2024-04-19 21:50:00'
 ---
 
 # 是什么
