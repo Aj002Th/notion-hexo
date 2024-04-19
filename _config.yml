@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Notion-Hexo
-subtitle: 'Notion + Elog + Hexo + GitHub Actions + Vercel 博客解决方案'
-description: 'Notion + Elog + Hexo + GitHub Actions + Vercel 博客解决方案'
+title: Aj002Th的奇思乱想
+subtitle: 
+description: '此间的博文大抵有两类，一种是水的，另一种仍是水的罢。 —— 鲁迅'
 keywords:
-author: 1874
+author: Aj002Th
 language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://notion-hexo.vercel.app
+url: https://aj002th.github.io
 permalink: :title/
 permalink_defaults:
 pretty_urls:
@@ -102,4 +102,6 @@ theme: butterfly
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: git@github.com:Aj002Th/Aj002Th.github.io.git
+  branch: master
